@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godinvisible&show_icons=true&locale=en" alt="godinvisible" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godinvisible&" alt="godinvisible" /></p>
-![wallpaperflare com_wallpaper](https://user-images.githubusercontent.com/114129087/191838652-e8d6420a-e286-4d15-a04c-ad50a7f458a4.jpg)
+
